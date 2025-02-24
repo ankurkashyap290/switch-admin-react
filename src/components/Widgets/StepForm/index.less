@@ -1,0 +1,81 @@
+.msaStepForm {
+  .stepsContent {
+    margin-top: 16px;
+    border: 1px dashed #e9e9e9;
+    border-radius: 6px;
+    background-color: #fafafa;
+    min-height: 200px;
+    padding-top: 10px;
+  }
+}
+
+.msaOverview {
+  max-width: 600px;
+  border-right: 1px dashed #e9e9e9;
+  .userDetails {
+    border-bottom: 1px dashed #e9e9e9;
+    margin-bottom: 10px;
+    .userDetailsTitle {
+      padding: 20px;
+      border-bottom: 1px dashed #e9e9e9;
+    }
+    .userDetailsBody {
+      margin-top: 20px;
+    }
+  }
+  .cardDetails {
+    .cardDetailsTitle {
+      padding: 20px;
+      border-bottom: 1px dashed #e9e9e9;
+    }
+    .cardDetailsBody {
+      margin-top: 20px;
+    }
+  }
+}
+.msaStepFormFinish {
+  text-align: center;
+  .icon {
+    font-size: 72px;
+    line-height: 72px;
+    margin-bottom: 24px;
+
+    & > .success {
+      color: @success-color;
+    }
+
+    & > .error {
+      color: @error-color;
+    }
+  }
+
+  .title {
+    font-size: 24px;
+    color: @heading-color;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 16px;
+  }
+
+  .description {
+    font-size: 14px;
+    line-height: 22px;
+    color: @text-color-secondary;
+    margin-bottom: 24px;
+  }
+
+  .extra {
+    background: #fafafa;
+    padding: 24px 40px;
+    border-radius: @border-radius-sm;
+    text-align: left;
+  }
+
+  .actions {
+    margin-top: 32px;
+
+    button:not(:last-child) {
+      margin-right: 8px;
+    }
+  }
+}

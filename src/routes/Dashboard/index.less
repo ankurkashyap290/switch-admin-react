@@ -1,0 +1,486 @@
+@import '../../utils/lessUtilFunctions.less';
+
+.activitiesList {
+  padding: 0 24px 8px 24px;
+  .username {
+    color: @text-color;
+  }
+  .event {
+    font-weight: normal;
+  }
+}
+
+.pageHeaderContent {
+  display: flex;
+  .avatar {
+    flex: 0 1 72px;
+    margin-bottom: 8px;
+    & > span {
+      border-radius: 72px;
+      display: block;
+      width: 72px;
+      height: 72px;
+    }
+  }
+  .content {
+    position: relative;
+    top: 4px;
+    margin-left: 24px;
+    flex: 1 1 auto;
+    color: @text-color-secondary;
+    line-height: 22px;
+    .contentTitle {
+      font-size: 20px;
+      line-height: 28px;
+      font-weight: 500;
+      color: @heading-color;
+      margin-bottom: 12px;
+    }
+  }
+}
+
+.pageHeaderExtra {
+  .clearfix();
+  float: right;
+  & > div {
+    padding: 0 32px;
+    position: relative;
+    float: left;
+    & > p:first-child {
+      color: @text-color-secondary;
+      font-size: @font-size-base;
+      line-height: 22px;
+      margin-bottom: 4px;
+    }
+    & > p {
+      color: @heading-color;
+      font-size: 30px;
+      line-height: 38px;
+      margin: 0;
+      & > span {
+        color: @text-color-secondary;
+        font-size: 20px;
+      }
+    }
+    &:after {
+      // background-color: @border-color-split;
+      position: absolute;
+      top: 8px;
+      right: 0;
+      width: 1px;
+      height: 40px;
+      content: '';
+    }
+  }
+  & > div:last-child {
+    padding-right: 0;
+    &:after {
+      display: none;
+    }
+  }
+}
+
+.members {
+  a {
+    display: block;
+    margin: 12px 0;
+    line-height: 24px;
+    height: 24px;
+    .textOverflow();
+    .member {
+      font-size: @font-size-base;
+      color: @text-color;
+      line-height: 24px;
+      max-width: 100px;
+      vertical-align: top;
+      margin-left: 12px;
+      transition: all 0.3s;
+      display: inline-block;
+      .textOverflow();
+    }
+    &:hover {
+      span {
+        color: @primary-color;
+      }
+    }
+  }
+}
+
+.projectList {
+  :global {
+    .ant-card-meta-description {
+      color: @text-color-secondary;
+      height: 44px;
+      line-height: 22px;
+      overflow: hidden;
+    }
+  }
+  .cardTitle {
+    font-size: 0;
+    a {
+      color: @heading-color;
+      margin-left: 12px;
+      line-height: 24px;
+      height: 24px;
+      display: inline-block;
+      vertical-align: top;
+      font-size: @font-size-base;
+      &:hover {
+        color: @primary-color;
+      }
+    }
+  }
+  .projectGrid {
+    width: 33.33%;
+  }
+  .projectItemContent {
+    display: flex;
+    margin-top: 8px;
+    overflow: hidden;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    .textOverflow();
+    a {
+      color: @text-color-secondary;
+      display: inline-block;
+      flex: 1 1 0;
+      .textOverflow();
+      &:hover {
+        color: @primary-color;
+      }
+    }
+    .datetime {
+      color: @disabled-color;
+      flex: 0 0 auto;
+      float: right;
+    }
+  }
+}
+
+.datetime {
+  color: @disabled-color;
+}
+
+.analyticTop {
+  margin-top: 10px;
+  :global {
+    .ant-card-body {
+      padding: 5px 20px;
+    }
+  }
+}
+
+.analyticTopOrder {
+  :global {
+    .ant-card-body {
+      padding: 7px 20px;
+    }
+  }
+}
+
+.analyticTopSale {
+  :global {
+    .ant-card-body {
+      padding: 7px 20px;
+    }
+  }
+}
+
+.todayTransaction {
+  :global {
+    .ant-progress-bg {
+      background-color: #2777b6 !important;
+    }
+  }
+}
+
+.TransactionPerSec {
+  :global {
+    .ant-progress-bg {
+      background-color: #a7b4b9 !important;
+    }
+  }
+}
+.salesTarget {
+  :global {
+    .ant-progress-bg {
+      background-color: #78b47c !important;
+    }
+  }
+}
+
+.monitorSales {
+  :global {
+    .ant-card-body {
+      padding: 39px;
+    }
+  }
+}
+
+.monitorSaleBar {
+  margin-top: 20px;
+}
+
+.popularSearches {
+  :global {
+    .ant-tag {
+      margin: 5px;
+    }
+    .ant-card-body {
+      padding: 30px;
+    }
+  }
+}
+.ecommerce {
+  .salesGraph {
+    :global {
+      .ant-card.ant-card-wider-padding {
+        padding-left: 0px !important; /* no unit */
+        padding-right: 0px !important; /* no unit */
+      }
+      .ant-col-16 {
+        padding-left: 3px !important;
+        padding-right: 7px !important;
+      }
+      .ant-card-actions {
+        background: #fff;
+      }
+      .ant-card-actions li {
+        text-align: left !important;
+      }
+      .ant-select {
+        margin-left: 10px;
+      }
+    }
+  }
+
+  .selectFilter {
+    margin-top: 10px;
+    :global {
+      .ant-card-actions {
+        background: #fff;
+      }
+      .ant-card-actions li {
+        text-align: left !important;
+      }
+      .ant-select {
+        margin-left: 10px;
+      }
+    }
+  }
+
+  .positiveReviews {
+    :global {
+      .ant-progress-bg {
+        background-color: #5bb75b;
+      }
+    }
+  }
+
+  .negativeReviews {
+    :global {
+      .ant-progress-bg {
+        background-color: #d9534d;
+      }
+    }
+  }
+
+  .neutralReviews {
+    :global {
+      .ant-progress-bg {
+        background-color: #3179b8;
+      }
+    }
+  }
+
+  .averageOrder {
+    text-align: center;
+    h1 {
+      color: #d9534d;
+      font-size: 64px;
+    }
+  }
+}
+
+.analytics {
+  .mobileSession {
+    :global {
+      .ant-card-body {
+        padding: 40px;
+      }
+    }
+  }
+  #reactgooglegraph-1 {
+    padding-left: 58px;
+  }
+
+  .analyticsCard {
+    :global {
+      .ant-card-actions {
+        background: #fff;
+      }
+      .ant-card-actions li {
+        text-align: left !important;
+      }
+      .ant-select {
+        margin-left: 10px;
+      }
+    }
+  }
+
+  .websitePerformance {
+    border-top: 1px solid #e8e4e4;
+    :global {
+      .ant-card-body {
+        padding: 15px;
+      }
+    }
+  }
+}
+
+.saas {
+  .saasCard {
+    :global {
+      .ant-card-actions {
+        background: #fff;
+      }
+      .ant-card-actions li {
+        text-align: left !important;
+      }
+      .ant-select {
+        margin-left: 10px;
+      }
+    }
+  }
+  .saasGauge {
+    margin-top: 20px;
+  }
+}
+
+.socialMedia {
+  .socialMediaCard {
+    :global {
+      .ant-card-actions {
+        background: #fff;
+      }
+      .ant-card-actions li {
+        text-align: left !important;
+      }
+      .ant-select {
+        margin-left: 10px;
+      }
+    }
+  }
+  .facebookPageStats {
+    margin-top: 20px;
+    min-height: 525px;
+  }
+  .twitterStats {
+    min-height: 525px;
+  }
+}
+
+.ecommerceStats {
+  .monthlyIncomeBar {
+    :global {
+      .ant-progress-bg {
+        background-color: #327ab7;
+      }
+      .ant-card-body {
+        height: 146px;
+      }
+    }
+  }
+  .monthlySales {
+    :global {
+      .ant-card-body {
+        padding: 34px;
+      }
+    }
+  }
+  .newCustomers {
+    :global {
+      .ant-card-body {
+        padding: 24px;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: @screen-xl) {
+  .pageHeaderExtra {
+    min-width: 345px;
+  }
+}
+
+@media screen and (max-width: @screen-xl) and (min-width: @screen-lg) {
+  .activeCard {
+    margin-bottom: 24px;
+  }
+  .members {
+    margin-bottom: 0;
+  }
+  .pageHeaderExtra {
+    margin-left: -44px;
+    & > div {
+      padding: 0 16px;
+    }
+  }
+}
+
+@media screen and (max-width: @screen-lg) {
+  .activeCard {
+    margin-bottom: 24px;
+  }
+  .members {
+    margin-bottom: 0;
+  }
+  .pageHeaderExtra {
+    float: none;
+    margin-right: 0;
+    & > div {
+      padding: 0 16px;
+      text-align: left;
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: @screen-md) {
+  .pageHeaderExtra {
+    margin-left: -16px;
+  }
+  .projectList {
+    .projectGrid {
+      width: 50%;
+    }
+  }
+}
+
+@media screen and (max-width: @screen-sm) {
+  .pageHeaderContent {
+    display: block;
+    .content {
+      margin-left: 0;
+    }
+  }
+  .pageHeaderExtra {
+    & > div {
+      float: none;
+    }
+  }
+}
+
+@media screen and (max-width: @screen-xs) {
+  .projectList {
+    .projectGrid {
+      width: 100%;
+    }
+  }
+}
+.hello {
+  background: @msa-layout-sider-menu-background;
+}

@@ -1,0 +1,10 @@
+{
+  "result.error.failedSubmission": "U kunt wat informatie toevoegen over waarom een ​​mislukte inzending is mislukt",
+  "result.error.backToReview": "Terug naar beoordelingsformulier",
+  "result.success.info": "U kunt hier wat informatie toevoegen over succes",
+  "result.back": "Terug",
+  "result.viewItem": "Bekijk item",
+  "result.downloadPrint": "Download / Print",
+  "result.successPage": "Succespagina",
+  "result.errorPage": "Foutpagina"
+}

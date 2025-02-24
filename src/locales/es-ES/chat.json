@@ -1,0 +1,18 @@
+{
+  "chat.add": "Añadir",
+  "chat.compose": "Componer",
+  "chat.send": "Enviar",
+  "chat.chatApp": "Aplicación de chat",
+  "chat.inputSearchText": "Ingresar texto de búsqueda",
+  "chat.typeYourMessage": "Escribe tu mensaje",
+  "chat.composeMessage": "Redactar mensaje",
+  "chat.findUser": "Encontrar usuario",
+  "chat.enterYourTextHere": "Escriba su texto aquí",
+  "chat.cancel": "Cancelar",
+  "chat.ok": "Okay",
+  "chat.fullName": "Nombre completo",
+  "chat.mobileNo": "No móviles",
+  "chat.dob": "Fecha de nacimiento",
+  "chat.selectDate": "Seleccione fecha",
+  "chat.addUser": "Agregar usuario"
+}

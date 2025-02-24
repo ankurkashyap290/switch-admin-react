@@ -1,0 +1,10 @@
+{
+  "result.error.failedSubmission": "Sie können einige Informationen hinzufügen, warum die Übermittlung fehlgeschlagen ist",
+  "result.error.backToReview": "Zurück zum Überprüfungsformular",
+  "result.success.info": "Hier können Sie einige Informationen zum Erfolg hinzufügen",
+  "result.back": "Zurück",
+  "result.viewItem": "Artikel anzeigen",
+  "result.downloadPrint": "Herunterladen / Drucken",
+  "result.successPage": "Erfolgsseite",
+  "result.errorPage": "Fehlerseite"
+}

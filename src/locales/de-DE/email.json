@@ -1,0 +1,23 @@
+{
+  "email.compose": "Komponieren",
+  "email.inbox": "Posteingang",
+  "email.sent": "Geschickt",
+  "email.draft": "Entwurf",
+  "email.important": "Wichtig",
+  "email.starred": "Markiert",
+  "email.spam": "Spam",
+  "email.trash": "Müll",
+  "email.labels": "Etiketten",
+  "email.work": "Arbeit",
+  "email.business": "Geschäft",
+  "email.family": "Familie",
+  "email.friend": "Freund",
+  "email.uploadText": "Klicken oder ziehen Sie die Datei in diesen Bereich, um sie hochzuladen",
+  "email.uploadHint": "Unterstützung für einen Einzel- oder Bulk-Upload. Es ist strengstens untersagt, Unternehmensdaten oder andere Banddateien hochzuladen",
+  "email.saveToDraft": "Zum Entwurf speichern",
+  "email.discard": "Verwerfen",
+  "email.send": "Senden",
+  "email.reply": "Antworten",
+  "email.attachments": "Anlagen",
+  "email.download": "Herunterladen"
+}

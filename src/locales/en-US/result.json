@@ -1,0 +1,13 @@
+{
+  "result.error.failedSubmission": "You may add some info about why failed submission",
+  "result.error.backToReview": "Back to review form",
+  "result.success.info": "You may add some info here on success",
+  "result.back": "Back",
+  "result.viewItem": "View Item",
+  "result.downloadPrint": "Download/Print",
+  "result.successPage": "Success Page",
+  "result.errorPage": "Error Page",
+
+  "result.submittedSuccessfully": "Submitted Successfully",
+  "result.submissionFailed": "Submission Failed"
+}

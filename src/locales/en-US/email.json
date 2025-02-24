@@ -1,0 +1,27 @@
+{
+  "email.compose": "Compose",
+  "email.inbox": "Inbox",
+  "email.sent": "Sent",
+  "email.draft": "Draft",
+  "email.important": "Important",
+  "email.starred": "Starred",
+  "email.spam": "Spam",
+  "email.trash": "Trash",
+  "email.labels": "Labels",
+  "email.work": "Work",
+  "email.business": "Business",
+  "email.family": "Family",
+  "email.friend": "Friend",
+  "email.uploadText": "Click or drag file to this area to upload",
+  "email.uploadHint": " Support for a single or bulk upload. Strictly prohibit from uploading company data or other band files",
+  "email.saveToDraft": "Save to draft",
+  "email.discard": "Discard",
+  "email.send": "Send",
+  "email.reply": "Reply",
+  "email.attachments": "Attachments",
+  "email.download": "Download",
+
+  "email.emailApp": "Email App",
+  "email.searchIn": "Search in",
+  "email.folders": "Folders"
+}

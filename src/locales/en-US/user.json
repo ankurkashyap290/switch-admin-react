@@ -1,0 +1,17 @@
+{
+  "user.loginHelpText": "To login use",
+  "user.adminLogin": "admin/admin",
+  "user.guestLogin": "guest/guest",
+  "user.forgotPassword": "Forgot Password?",
+  "user.logIn": "Log In",
+  "user.registerNow": "Create new account?",
+  "user.or": "Or",
+  "user.readAgreement": "I have read the",
+  "user.agreement": "agreement",
+  "user.userRegister": "Register Now",
+  "user.alreadyUser": "Already user?",
+  "user.recoverPassword": "Recover Password",
+  "user.recoverPasswordHelp": "To recover password",
+  "user.enterYourEmail": "Please provide your email",
+  "user.userResetPassword": "Reset Password"
+}

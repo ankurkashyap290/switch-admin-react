@@ -1,0 +1,15 @@
+{
+  "user.adminLogin": "Admin Login use (admin/admin)",
+  "user.guestLogin": "Guest Login use (guest/guest)",
+  "user.forgotPassword": "Forgot Password",
+  "user.logIn": "Log In",
+  "user.registerNow": "Register Now",
+  "user.or": "Or",
+  "user.readAgreement": "I have read the",
+  "user.agreement": "agreement",
+  "user.userRegister": "Register",
+  "user.alreadyUser": "Already user",
+  "user.recoverPassword": "Recover Password",
+  "user.recoverPasswordHelp": "To recover password",
+  "user.enterYourEmail": "Enter your email"
+}

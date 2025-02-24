@@ -1,0 +1,20 @@
+{
+  "dashboard.ecommerce.monthlyIncome": "Monthly Income",
+  "dashboard.ecommerce.monthlySales": "Monthly Sales",
+  "dashboard.ecommerce.newCustomers": "New Customers",
+  "dashboard.ecommerce.activeCustomer": "Active Customer",
+  "dashboard.ecommerce.productSaleGraph": "Product Sale Graph",
+  "dashboard.ecommerce.revenueByCity": "Revenue By City",
+  "dashboard.ecommerce.inventoryStock": "Inventory Stock",
+  "dashboard.ecommerce.AverageOrder": "Avg.Number of Orders per Customer(last 30 days)",
+  "dashboard.ecommerce.positiveReviews": "Positive Reviews",
+  "dashboard.ecommerce.negativeReviews": "Negative Reviews",
+  "dashboard.ecommerce.neutralReviews": "Neutral Reviews",
+  "dashboard.ecommerce.AverageProductPrice": "Average Product Price",
+  "dashboard.ecommerce.visitorOnlineNow": "Visitor Online Now",
+  "dashboard.ecommerce.advertisingPromotions": "Advertising and Promotions Expenditure",
+  "dashboard.ecommerce.sales": "Sales Revenue",
+  "dashboard.ecommerce.saleByProduct": "Sale by Products",
+  "dashboard.ecommerce.salesByCountries": "Sales by Countries",
+  "dashboard.ecommerce.ecommerceDashboard": "Ecommerce Dashboard"
+}

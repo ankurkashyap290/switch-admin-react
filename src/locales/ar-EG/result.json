@@ -1,0 +1,10 @@
+{
+  "result.error.failedSubmission": "يمكنك إضافة بعض المعلومات حول سبب فشل الإرسال",
+  "result.error.backToReview": "العودة إلى مراجعة النموذج",
+  "result.success.info": "يمكنك إضافة بعض المعلومات هنا على النجاح",
+  "result.back": "الى الخلف",
+  "result.viewItem": "عرض البند",
+  "result.downloadPrint": "تنزيل / طباعة",
+  "result.successPage": "صفحة النجاح",
+  "result.errorPage": "صفحة الخطأ"
+}

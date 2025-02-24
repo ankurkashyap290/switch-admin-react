@@ -1,0 +1,23 @@
+{
+  "email.compose": "Componeren",
+  "email.inbox": "Postvak IN",
+  "email.sent": "Verzonden",
+  "email.draft": "Droogte",
+  "email.important": "Belangrijk",
+  "email.starred": "Met ster",
+  "email.spam": "Spam",
+  "email.trash": "uitschot",
+  "email.labels": "Labels",
+  "email.work": "Werk",
+  "email.business": "Bedrijf",
+  "email.family": "Familie",
+  "email.friend": "vriend",
+  "email.uploadText": "Klik of sleep het bestand naar dit gebied om te uploaden",
+  "email.uploadHint": "Ondersteuning voor een enkele of bulkupload. Verbied strikt het uploaden van bedrijfsgegevens of andere bandbestanden",
+  "email.saveToDraft": "Opslaan in concept",
+  "email.discard": "afdanken",
+  "email.send": "Sturen",
+  "email.reply": "Antwoord",
+  "email.attachments": "Bijlagen",
+  "email.download": "Download"
+}

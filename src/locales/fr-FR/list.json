@@ -1,0 +1,20 @@
+{
+  "list.setup": "Installer",
+  "list.subscribe": "Souscrire",
+  "list.main.title": "Table avec toutes les options",
+  "list.bordered": "Bordé",
+  "list.loading": "Chargement",
+  "list.title": "Titre",
+  "list.columnHeader": "En-tête de colonne",
+  "list.footer": "Bas de page",
+  "list.expandable": "Extensible",
+  "list.checkbox": "Case à cocher",
+  "list.fixedHeader": "En-tête fixe",
+  "list.size": "Taille",
+  "list.default": "Défaut",
+  "list.middle": "Milieu",
+  "list.small": "Petit",
+  "list.pagination": "Pagination",
+  "list.bottom": "Bas",
+  "list.none": "Aucun"
+}

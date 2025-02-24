@@ -1,0 +1,20 @@
+{
+  "list.setup": "Preparar",
+  "list.subscribe": "Suscribir",
+  "list.main.title": "Mesa con opciones completas.",
+  "list.bordered": "Bordeado",
+  "list.loading": "Cargando",
+  "list.title": "Título",
+  "list.columnHeader": "Encabezado de la columna",
+  "list.footer": "Pie de página",
+  "list.expandable": "Expandible",
+  "list.checkbox": "Caja",
+  "list.fixedHeader": "Encabezado fijo",
+  "list.size": "tamaño",
+  "list.default": "Defecto",
+  "list.middle": "Medio",
+  "list.small": "Pequeño",
+  "list.pagination": "Paginación",
+  "list.bottom": "Fondo",
+  "list.none": "Ninguno"
+}

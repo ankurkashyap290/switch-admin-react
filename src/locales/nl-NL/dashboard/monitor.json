@@ -1,0 +1,14 @@
+{
+  "dashboard.monitor.todayProductSale": "Vandaag de verkoop van producten",
+  "dashboard.monitor.totalTransactionsToday": "Totaal transacties vandaag",
+  "dashboard.monitor.salesTarget": "Voltooiingspercentage verkoopdoel",
+  "dashboard.monitor.transPerSec": "Totaal aantal transacties per seconde",
+  "dashboard.monitor.todayRevenueByCity": "Vandaag de omzet per stad",
+  "dashboard.monitor.proportionPerCat": "Aandeel per categorie",
+  "dashboard.monitor.furniture": "Meubilair",
+  "dashboard.monitor.cloths": "Kleren",
+  "dashboard.monitor.jewelry": "Sieraden",
+  "dashboard.monitor.shoes": "Schoenen",
+  "dashboard.monitor.popularSearches": "populaire zoekopdrachten",
+  "dashboard.monitor.monitorDashboard": "Monitor Dashboard"
+}

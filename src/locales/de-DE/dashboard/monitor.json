@@ -1,0 +1,14 @@
+{
+  "dashboard.monitor.todayProductSale": "Heute Produktverkauf",
+  "dashboard.monitor.totalTransactionsToday": "Gesamtzahl Transaktionen heute",
+  "dashboard.monitor.salesTarget": "Verkaufszielerfüllungsrate",
+  "dashboard.monitor.transPerSec": "Gesamtzahl Transaktionen pro Sekunde",
+  "dashboard.monitor.todayRevenueByCity": "Heute Umsatz nach Städten",
+  "dashboard.monitor.proportionPerCat": "Anteil pro Kategorie",
+  "dashboard.monitor.furniture": "Möbel",
+  "dashboard.monitor.cloths": "Kleider",
+  "dashboard.monitor.jewelry": "Schmuck",
+  "dashboard.monitor.shoes": "Schuhe",
+  "dashboard.monitor.popularSearches": "beliebte Suchanfragen",
+  "dashboard.monitor.monitorDashboard": "Monitor-Dashboard"
+}

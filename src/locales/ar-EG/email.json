@@ -1,0 +1,23 @@
+{
+  "email.compose": "مؤلف موسيقى",
+  "email.inbox": "صندوق الوارد",
+  "email.sent": "أرسلت",
+  "email.draft": "مشروع",
+  "email.important": "مهم",
+  "email.starred": "تألق",
+  "email.spam": "بريد مؤذي",
+  "email.trash": "قمامة، يدمر، يهدم",
+  "email.labels": "ملصقات",
+  "email.work": "عمل",
+  "email.business": "اعمال",
+  "email.family": "عائلة",
+  "email.friend": "صديق",
+  "email.uploadText": "انقر أو اسحب الملف إلى هذه المنطقة للتحميل",
+  "email.uploadHint": "دعم للتحميل واحد أو بالجملة. يمنع منعا باتا تحميل بيانات الشركة أو ملفات الفرقة الأخرى",
+  "email.saveToDraft": "حفظ إلى مشروع",
+  "email.discard": "تجاهل",
+  "email.send": "إرسال",
+  "email.reply": "الرد",
+  "email.attachments": "مرفقات",
+  "email.download": "تحميل"
+}

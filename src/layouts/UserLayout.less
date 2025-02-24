@@ -1,0 +1,70 @@
+.userLayoutContainer {
+  background: #f0f2f5;
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  &:before {
+    content: '';
+    background-color: @layout-header-background;
+    width: 100vw;
+    height: 30%;
+    box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+}
+
+.contentGrid {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  flex-direction: column;
+}
+
+.contentUserLayout {
+  padding: 20px;
+  background-color: #fff;
+  margin: 0px;
+  border: 1px solid #ddd;
+  box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.top {
+  text-align: center;
+}
+
+.userLayoutHeader {
+  a {
+    text-decoration: none;
+    display: block;
+  }
+}
+
+.userLayoutLogo {
+  height: 70px;
+  vertical-align: middle;
+}
+
+.title {
+  font-size: 25px;
+  color: @primary-color;
+  font-family: 'Myriad Pro', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  position: relative;
+  top: 2px;
+  margin-bottom: 20px;
+}
+
+.desc {
+  font-size: @font-size-base;
+  color: @text-color-secondary;
+  margin-top: 12px;
+  margin-bottom: 40px;
+}

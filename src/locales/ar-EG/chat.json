@@ -1,0 +1,19 @@
+{
+  "chat.add": "إضافة",
+  "chat.compose": "مؤلف موسيقى",
+  "chat.send": "إرسال",
+
+  "chat.chatApp": "تطبيق الدردشة",
+  "chat.inputSearchText": "إدخال نص البحث",
+  "chat.typeYourMessage": "اكتب رسالتك",
+  "chat.composeMessage": "يؤلف رسالة",
+  "chat.findUser": "العثور على المستخدم",
+  "chat.enterYourTextHere": "أدخل النص هنا",
+  "chat.cancel": "إلغاء",
+  "chat.ok": "حسنا",
+  "chat.fullName": "الاسم الكامل",
+  "chat.mobileNo": "رقم الهاتف المحمول",
+  "chat.dob": "تاريخ الولادة",
+  "chat.selectDate": "حدد تاريخ",
+  "chat.addUser": "إضافة مستخدم"
+}

@@ -1,0 +1,20 @@
+{
+  "dashboard.ecommerce.monthlyIncome": "الدخل الشهري",
+  "dashboard.ecommerce.monthlySales": "المبيعات الشهرية",
+  "dashboard.ecommerce.newCustomers": "زبائن الجدد",
+  "dashboard.ecommerce.activeCustomer": "عميل نشط",
+  "dashboard.ecommerce.productSaleGraph": "بيع المنتج الرسم البياني",
+  "dashboard.ecommerce.revenueByCity": "الإيرادات حسب المدينة",
+  "dashboard.ecommerce.inventoryStock": "جرد المخزون",
+  "dashboard.ecommerce.AverageOrder": "متوسط ​​عدد الطلبات لكل عميل (آخر 30 يومًا)",
+  "dashboard.ecommerce.positiveReviews": "مراجعات إيجابية",
+  "dashboard.ecommerce.negativeReviews": "مراجعات سلبية",
+  "dashboard.ecommerce.neutralReviews": "مراجعات محايدة",
+  "dashboard.ecommerce.AverageProductPrice": "متوسط ​​سعر المنتج",
+  "dashboard.ecommerce.visitorOnlineNow": "الزائر على الإنترنت الآن",
+  "dashboard.ecommerce.advertisingPromotions": "الإنفاق على الإعلانات والترويج",
+  "dashboard.ecommerce.sales": "إيرادات المبيعات",
+  "dashboard.ecommerce.saleByProduct": "بيع حسب المنتجات",
+  "dashboard.ecommerce.salesByCountries": "المبيعات حسب البلدان",
+  "dashboard.ecommerce.ecommerceDashboard": "لوحة القيادة للتجارة الإلكترونية"
+}

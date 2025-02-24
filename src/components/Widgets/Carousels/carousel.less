@@ -1,0 +1,44 @@
+.CarouselWrapper {
+  position: relative;
+  .graphCarouselSlider {
+    position: relative;
+    left: 0px;
+    width: 100%;
+  }
+  .CarouselSliderList {
+    position: relative;
+    white-space: nowrap;
+    transition: transform 0.5s ease-out;
+  }
+  .CarouselSliderListLi {
+    display: inline-block;
+    width: 400px;
+    margin: 10px 0px 10px 10px;
+    height: auto;
+  }
+  .shift {
+    position: absolute;
+    z-index: 1;
+    height: 100%;
+    -webkit-transition: opacity 0.5s, width 0.1s, margin 0.5s;
+    width: 66px;
+    opacity: 1;
+    margin-top: 10px;
+  }
+  .shift:hover {
+    opacity: 0.65;
+    transition: 0.5s;
+    background-color: #fafafac7;
+  }
+  .right {
+    right: 0px;
+    padding-left: 20px;
+  }
+  .left {
+    left: 0px;
+    padding-left: 20px;
+  }
+  .CarouselArrow {
+    font-size: 20px;
+  }
+}

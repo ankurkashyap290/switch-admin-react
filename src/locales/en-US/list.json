@@ -1,0 +1,20 @@
+{
+  "list.setup": "Set up",
+  "list.subscribe": "Subscribe",
+  "list.main.title": "Table with full options",
+  "list.bordered": "Bordered",
+  "list.loading": "Loading",
+  "list.title": "Title",
+  "list.columnHeader": "Column Header",
+  "list.footer": "Footer",
+  "list.expandable": "Expandable",
+  "list.checkbox": "CheckBox",
+  "list.fixedHeader": "Fixed Header",
+  "list.size": "Size",
+  "list.default": "Default",
+  "list.middle": "Middle",
+  "list.small": "Small",
+  "list.pagination": "Pagination",
+  "list.bottom": "Bottom",
+  "list.none": "None"
+}

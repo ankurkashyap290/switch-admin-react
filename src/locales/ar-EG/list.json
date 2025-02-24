@@ -1,0 +1,20 @@
+{
+  "list.setup": "اقامة",
+  "list.subscribe": "الاشتراك",
+  "list.main.title": "الجدول مع خيارات كاملة",
+  "list.bordered": "يحدها",
+  "list.loading": "جار التحميل",
+  "list.title": "عنوان",
+  "list.columnHeader": "رأس العمود",
+  "list.footer": "تذييل",
+  "list.expandable": "توسيع",
+  "list.checkbox": "مربع",
+  "list.fixedHeader": "رأس ثابت",
+  "list.size": "بحجم",
+  "list.default": "افتراضي",
+  "list.middle": "وسط",
+  "list.small": "صغير",
+  "list.pagination": "ترقيم الصفحات",
+  "list.bottom": "الأسفل",
+  "list.none": "لا شيء"
+}

@@ -1,0 +1,13 @@
+{
+  "dashboard.saas.accountAndMrr": "Konto- und MRR-Wachstum",
+  "dashboard.saas.totalAccount": "Total Accounts YTD",
+  "dashboard.saas.mrr": "MRR YTD",
+  "dashboard.saas.avgMrr": "Durchschnittliche MRR pro Konto",
+  "dashboard.saas.trailToWin": "Trail to Win Conv Rate",
+  "dashboard.saas.monthlyMrr": "Monatliche MRR-Speicherung",
+  "dashboard.saas.marketing": "Marketing",
+  "dashboard.saas.product": "Produkte",
+  "dashboard.saas.finance": "Finanzen",
+  "dashboard.saas.sales": "Der Umsatz",
+  "dashboard.saas.saasDashboard": "Saas Dashboard"
+}

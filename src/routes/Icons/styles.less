@@ -1,0 +1,107 @@
+ul.iconList {
+  margin: 40px 0;
+  list-style: none;
+  overflow: hidden;
+}
+
+ul.iconList li {
+  float: left;
+  width: 16.66%;
+  text-align: center;
+  list-style: none;
+  cursor: pointer;
+  height: 70px;
+  color: #555;
+  -webkit-transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  position: relative;
+  margin: 3px 0;
+  border-radius: 4px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 10px 0 0;
+}
+
+ul.iconList li .anticon {
+  font-size: 24px;
+  margin: 12px 0 16px;
+  -webkit-transition: -webkit-transform 0.3s ease-in-out;
+  transition: -webkit-transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+  will-change: transform;
+}
+
+ul.iconList li .anticon-class {
+  display: block;
+  text-align: center;
+  -webkit-transform: scale(0.83);
+  -ms-transform: scale(0.83);
+  transform: scale(0.83);
+  white-space: nowrap;
+}
+
+ul.iconList li .anticon-class .ant-badge {
+  -webkit-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+
+ul.iconList li:hover {
+  background-color: #1890ff;
+  color: #fff;
+}
+
+ul.iconList li:hover .anticon {
+  -webkit-transform: scale(1.4);
+  -ms-transform: scale(1.4);
+  transform: scale(1.4);
+}
+
+ul.iconList li:hover .ant-badge {
+  color: #fff;
+}
+
+ul.iconList li.copied:hover {
+  color: hsla(0, 0%, 100%, 0.2);
+}
+
+ul.iconList li:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  content: 'Copied!';
+  text-align: center;
+  line-height: 110px;
+  color: #fff;
+  -webkit-transition: all 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+  transition: all 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+  opacity: 0;
+}
+
+ul.iconList li.copied:after {
+  opacity: 1;
+  top: -10px;
+}
+ul.iconListHead {
+  list-style: none;
+  overflow: hidden;
+}
+ul.iconListHead li {
+  float: left;
+  width: 100%;
+  text-align: center;
+  list-style: none;
+  cursor: pointer;
+  height: 40px;
+  color: #555;
+  -webkit-transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  position: relative;
+  margin: 3px 0;
+  border-radius: 4px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 10px 0 0;
+}

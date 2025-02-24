@@ -1,0 +1,84 @@
+.rightHandle {
+  position: absolute;
+  top: 400px;
+  right: 256px;
+  z-index: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 48px;
+  font-size: 32px;
+  text-align: center;
+  background: @layout-sider-background;
+  border-radius: 14px 0 0 14px;
+  cursor: pointer;
+  pointer-events: auto;
+}
+.leftHandle {
+  position: absolute;
+  bottom: 200px;
+  left: 256px;
+  z-index: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 48px;
+  font-size: 32px;
+  text-align: center;
+  background: @layout-sider-background;
+  border-radius: 0 14px 14px 0 !important;
+  cursor: pointer;
+  pointer-events: auto;
+}
+.pageTitleStyleOne {
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pageTitleStyleSecond {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.pageTitleStyleThree {
+  font-size: 24px;
+  padding-left: 24px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wrapHeaderStyle {
+  display: flex;
+  flex-wrap: nowrap;
+  height: 53px;
+  border: 1px solid;
+  padding-bottom: 1px;
+  cursor: pointer;
+}
+.ant-drawer-header {
+  background: @layout-sider-background;
+}
+.ant-drawer-title {
+  color: #fff;
+  text-align: center;
+}
+.themeDivider {
+  margin: 15px 0 15px 0 !important;
+}
+.themeFont {
+  font-size: 12px;
+  letter-spacing: 4px;
+  font-weight: 900;
+}
+.ant-drawer-body {
+  font-size: 13px !important;
+}
+.themeDropdown {
+  font-size: 13px !important;
+}
+.themeDrawerHeader {
+  .ant-drawer-header {
+    border-radius: 0px !important;
+  }
+}

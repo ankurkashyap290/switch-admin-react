@@ -1,0 +1,20 @@
+{
+  "list.setup": "Konfiguration",
+  "list.subscribe": "Abonnieren",
+  "list.main.title": "Tabelle mit allen Optionen",
+  "list.bordered": "Eingefasst",
+  "list.loading": "Wird geladen",
+  "list.title": "Titel",
+  "list.columnHeader": "Spaltenüberschrift",
+  "list.footer": "Fußzeile",
+  "list.expandable": "Erweiterbar",
+  "list.checkbox": "Kontrollkästchen",
+  "list.fixedHeader": "Fester Header",
+  "list.size": "Größe",
+  "list.default": "Standard",
+  "list.middle": "Mitte",
+  "list.small": "Klein",
+  "list.pagination": "Seitennummerierung",
+  "list.bottom": "Unterseite",
+  "list.none": "Keiner"
+}

@@ -1,0 +1,72 @@
+.headerSearch {
+  .anticon-search {
+    cursor: pointer;
+    font-size: 1.3em;
+    color: @msa-header-icon-color;
+  }
+
+  .input {
+    transition: width 0.3s, margin-left 0.3s;
+    width: 0;
+    background: transparent;
+    border-radius: 0;
+    .ant-select-selection {
+      background: transparent;
+    }
+    input {
+      border: 0;
+      padding-left: 0;
+      padding-right: 0;
+      box-shadow: none !important;
+      color: @msa-header-icon-color;
+    }
+    &,
+    &:hover,
+    &:focus {
+      border-bottom: 1px solid @border-color-base;
+    }
+    &.show {
+      width: 210px;
+      margin-left: 8px;
+    }
+  }
+  :global {
+    .ant-select-search__field {
+      color: @msa-header-icon-color !important;
+    }
+  }
+}
+.ant-input-search-icon:hover {
+  color: @msa-header-icon-color;
+}
+.ant-input-search-icon {
+  color: @msa-header-icon-color;
+}
+.headerSearchIcon {
+  font-size: 18px;
+  color: @msa-header-icon-color;
+  padding-right: 10px;
+}
+.headerSearchInput {
+  .ant-input {
+    background: @layout-header-background;
+    color: @msa-header-icon-color;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+  }
+
+  .ant-input:focus {
+    box-shadow: 0 0 0 0px rgba(23, 63, 95, 0.2) !important;
+  }
+  .ant-input-affix-wrapper .ant-input-prefix :not(.anticon),
+  .ant-input-affix-wrapper .ant-input-suffix :not(.anticon) {
+    color: @msa-header-icon-color;
+  }
+}
+.rtlpadding {
+  padding-left: 15px;
+}
+.ltrpadding {
+  padding-right: 10px;
+}

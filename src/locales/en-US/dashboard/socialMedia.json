@@ -1,0 +1,20 @@
+{
+  "dashboard.social.socialMediaFollowers": "Social Media Followers",
+  "dashboard.social.youTubeSub": "YouTube Subscribers",
+  "dashboard.social.youTubeViews": "YouTube Channel Views",
+  "dashboard.social.twitterStats": "Twitter stats",
+  "dashboard.social.facebookPageStats": "Facebook Page Stats",
+  "dashboard.social.linkedinEngagement": "Linkedin Engagement",
+  "dashboard.social.linkedinFollowers": "Linkedin Followers by Industry",
+  "dashboard.social.facebookPageVisits": "Facebook page Visits",
+  "dashboard.social.socialMediaDashboard": "Social Media Dashboard",
+  "dashboard.social.likes": "Likes",
+  "dashboard.social.followers": "Followers",
+  "dashboard.social.friends": "Friends",
+  "dashboard.social.statuses": "Statuses",
+  "dashboard.social.favorites": "Favorites",
+  "dashboard.social.peopleTalkingAboutYourPage": "People talking about your page",
+  "dashboard.social.newLikesOfYourPage": "New likes of your page",
+  "dashboard.social.totalLikesOfYourPage": "Total likes of your page",
+  "dashboard.social.twitterRetweetsOfLast10Tweets": "Twitter Retweets of last 10 Tweets"
+}

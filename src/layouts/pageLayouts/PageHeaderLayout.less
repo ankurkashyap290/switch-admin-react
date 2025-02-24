@@ -1,0 +1,44 @@
+@import '../../variables.less';
+
+.content {
+  margin: 24px;
+}
+
+@media screen and (max-width: @screen-sm) {
+  .content {
+    margin: 24px;
+  }
+}
+
+.pageHeader {
+  background: @component-background;
+  padding: 16px 24px;
+  border-bottom: @border-width-base @border-style-base @border-color-split;
+
+  .title {
+    font-size: 20px;
+    font-weight: 500;
+    color: @primary-color;
+    flex: auto;
+    margin-bottom: 16px;
+  }
+}
+
+.pageTitleStyleOne {
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: @primary-color;
+}
+
+.pageTitleStyleSecond {
+  font-size: 24px;
+  font-weight: 600;
+  color: @primary-color;
+}
+.pageTitleStyleThree {
+  font-size: 24px;
+  color: @primary-color;
+  padding: 20px 0px 0px 24px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

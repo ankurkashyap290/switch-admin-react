@@ -1,0 +1,20 @@
+{
+  "dashboard.ecommerce.monthlyIncome": "Maandinkomen",
+  "dashboard.ecommerce.monthlySales": "Maandelijkse verkopen",
+  "dashboard.ecommerce.newCustomers": "nieuwe klanten",
+  "dashboard.ecommerce.activeCustomer": "Actieve klant",
+  "dashboard.ecommerce.productSaleGraph": "Productverkoopgrafiek",
+  "dashboard.ecommerce.revenueByCity": "Inkomsten per stad",
+  "dashboard.ecommerce.inventoryStock": "Inventaris voorraad",
+  "dashboard.ecommerce.AverageOrder": "Gem. Aantal bestellingen per klant (laatste 30 dagen)",
+  "dashboard.ecommerce.positiveReviews": "Positieve beoordelingen",
+  "dashboard.ecommerce.negativeReviews": "Negatieve beoordelingen",
+  "dashboard.ecommerce.neutralReviews": "Neutrale beoordelingen",
+  "dashboard.ecommerce.AverageProductPrice": "Gemiddelde productprijs",
+  "dashboard.ecommerce.visitorOnlineNow": "Bezoeker nu online",
+  "dashboard.ecommerce.advertisingPromotions": "Uitgaven van reclame en promoties",
+  "dashboard.ecommerce.sales": "Omzet",
+  "dashboard.ecommerce.saleByProduct": "Verkoop door producten",
+  "dashboard.ecommerce.salesByCountries": "Verkoop per land",
+  "dashboard.ecommerce.ecommerceDashboard": "E-commerce dashboard"
+}

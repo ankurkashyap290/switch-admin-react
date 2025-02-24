@@ -1,0 +1,20 @@
+{
+  "list.setup": "Opgericht",
+  "list.subscribe": "abonneren",
+  "list.main.title": "Tafel met volledige opties",
+  "list.bordered": "begrensd",
+  "list.loading": "Bezig met laden",
+  "list.title": "Titel",
+  "list.columnHeader": "Kolomkop",
+  "list.footer": "Footer",
+  "list.expandable": "Expandable",
+  "list.checkbox": "CheckBox",
+  "list.fixedHeader": "Vaste koptekst",
+  "list.size": "Grootte",
+  "list.default": "Standaard",
+  "list.middle": "Midden",
+  "list.small": "Klein",
+  "list.pagination": "Paginering",
+  "list.bottom": "Bodem",
+  "list.none": "Geen"
+}

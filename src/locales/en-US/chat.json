@@ -1,0 +1,24 @@
+{
+  "chat.add": "Add",
+  "chat.compose": "Compose",
+  "chat.send": "Send",
+
+  "chat.chatApp": "Chat App",
+  "chat.inputSearchText": "Input Search Text",
+  "chat.typeYourMessage": "Type Your Message",
+  "chat.composeMessage": "Compose Message",
+  "chat.findUser": "Find User",
+  "chat.enterYourTextHere": "Enter Your Text Here",
+  "chat.cancel": "Cancel",
+  "chat.ok": "OK",
+  "chat.fullName": "Full Name",
+  "chat.mobileNo": "Mobile No",
+  "chat.dob": "DOB",
+  "chat.selectDate": "Select Date",
+  "chat.addUser": "Add User",
+  "chat.pleaseFindTheContact": "Please find the contact",
+  "chat.pleaseEnterSomeText": "Please enter some text!",
+  "chat.pleaseInputYourFullName": "Please input your full name",
+  "chat.pleaseInputYourMobileNumber": "Please input your Mobile Number",
+  "chat.pleasePickYourDob": "Please pick your DOB"
+}

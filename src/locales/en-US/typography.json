@@ -1,0 +1,12 @@
+{
+  "typography.typography": "Typography",
+  "typography.header": "Header",
+  "typography.paragraph": "Paragraph",
+  "typography.quote": "Quote",
+  "typography.mutedText": "Muted Text",
+  "typography.primaryText": "Primary Text",
+  "typography.successText": "Success Text",
+  "typography.warningText": "Warning Text",
+  "typography.dangerText": "Danger Text",
+  "typography.smallText": "Small Text"
+}

@@ -1,0 +1,118 @@
+.base {
+  // background: @layout-header-logo-background;
+  .logo {
+    height: 64px;
+    position: relative;
+    line-height: 64px;
+    transition: all 0.3s;
+    // background: @msa-header-logo-background;
+    overflow: hidden;
+    img {
+      display: inline-block;
+      vertical-align: middle;
+      height: 64px;
+    }
+    h1 {
+      color: @msa-sider-text-color;
+      display: inline-block;
+      vertical-align: middle;
+      font-size: 20px;
+      margin: 0 0 0 12px;
+      font-family: 'Myriad Pro', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      text-transform: uppercase;
+    }
+  }
+
+  .sider {
+    min-height: 100vh;
+    position: relative;
+    z-index: 10;
+  }
+
+  .ant-menu-item .anticon,
+  .ant-menu-submenu-title .anticon {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  // .ant-menu-submenu-vertical > .ant-menu-submenu-title .ant-menu-submenu-arrow,
+  // .ant-menu-submenu-vertical-left > .ant-menu-submenu-title .ant-menu-submenu-arrow,
+  // .ant-menu-submenu-vertical-right > .ant-menu-submenu-title .ant-menu-submenu-arrow,
+  // .ant-menu-submenu-inline > .ant-menu-submenu-title .ant-menu-submenu-arrow {
+  //   left: 10px !important;
+  //   right: 0px !important;
+  // }
+
+  .ant-menu-dark.ant-menu-inline,
+  .ant-menu-dark.ant-menu-vertical,
+  .ant-menu-dark.ant-menu-vertical-left,
+  .ant-menu-dark.ant-menu-vertical-right {
+    background: @msa-layout-sider-menu-background;
+  }
+}
+.base .ant-menu-dark .ant-menu-inline.ant-menu-sub {
+  background: @msa-layout-sider-submenu-background;
+}
+.ant-menu-item .ant-menu-item-active .ant-menu-item-selected {
+  background: @msa-layout-sider-selected-submenu-background;
+}
+.ant-menu-item .ant-menu-item-active {
+  background: @msa-layout-sider-selected-submenu-background;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected {
+  background: @msa-layout-sider-selected-submenu-background;
+}
+.ant-menu-dark,
+.ant-menu-dark .ant-menu-sub {
+  background: @msa-layout-sider-submenu-background;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+  background: @msa-layout-sider-selected-submenu-background;
+}
+
+.autoLogo {
+  &:extend(.base);
+}
+
+// make menu theme="light"
+.autoMenu {
+  &:extend(.base);
+}
+
+@media only screen and (max-width: @screen-md) {
+  .logo {
+    padding-right: 12px;
+    position: relative;
+  }
+}
+
+.ant-menu-dark .ant-menu-item:hover,
+.ant-menu-dark .ant-menu-item-disabled,
+.ant-menu-dark .ant-menu-item-active,
+.ant-menu-dark .ant-menu-submenu-active,
+.ant-menu-dark .ant-menu-submenu-open,
+.ant-menu-dark .ant-menu-submenu-selected,
+.ant-menu-dark .ant-menu-submenu-title:hover {
+  color: @msa-sider-text-color;
+}
+.base .ant-menu-dark .ant-menu-item,
+.base .ant-menu-dark .ant-menu-item-group-title,
+.base .ant-menu-dark .ant-menu-item a {
+  color: @msa-sider-text-color;
+}
+.ant-menu-dark .ant-menu-item-disabled,
+.ant-menu-dark .ant-menu-submenu-disabled,
+.ant-menu-dark .ant-menu-item-disabled a,
+.ant-menu-dark .ant-menu-submenu-disabled a {
+  color: @msa-sider-text-color;
+}
+.ant-menu-dark .ant-menu-item,
+.ant-menu-dark .ant-menu-item-group-title,
+.ant-menu-dark .ant-menu-item a {
+  color: @msa-sider-text-color;
+}
+.ant-menu-dark.ant-menu-inline .ant-menu-item,
+.ant-menu-dark.ant-menu-inline .ant-menu-submenu-title {
+  color: @msa-sider-text-color;
+}

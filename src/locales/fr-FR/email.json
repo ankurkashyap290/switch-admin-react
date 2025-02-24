@@ -1,0 +1,23 @@
+{
+  "email.compose": "Composer",
+  "email.inbox": "Boîte de réception",
+  "email.sent": "Envoyé",
+  "email.draft": "Brouillon",
+  "email.important": "Important",
+  "email.starred": "Étoilé",
+  "email.spam": "Spam",
+  "email.trash": "Poubelle",
+  "email.labels": "Étiquettes",
+  "email.work": "Travail",
+  "email.business": "Affaires",
+  "email.family": "Famille",
+  "email.friend": "Ami",
+  "email.uploadText": "Cliquez ou glissez le fichier dans cette zone pour télécharger",
+  "email.uploadHint": "Prise en charge d'un téléchargement unique ou groupé. Interdire strictement de télécharger des données de l'entreprise ou d'autres fichiers de groupe",
+  "email.saveToDraft": "Enregistrer dans le brouillon",
+  "email.discard": "Jeter",
+  "email.send": "Envoyer",
+  "email.reply": "Répondre",
+  "email.attachments": "Les pièces jointes",
+  "email.download": "Télécharger"
+}

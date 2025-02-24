@@ -1,0 +1,1 @@
+# SwitchAdmin - React Admin Dashboard

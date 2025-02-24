@@ -1,0 +1,11 @@
+[Settings]
+  ID = "6b744443-d613-4f03-ad01-3d79aa74e6e0"
+[Build]
+  Base    = ""
+  Publish = "./build"
+  Command = "yarn build"
+
+[[Redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

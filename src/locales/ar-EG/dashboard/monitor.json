@@ -1,0 +1,14 @@
+{
+  "dashboard.monitor.todayProductSale": "بيع المنتجات اليوم",
+  "dashboard.monitor.totalTransactionsToday": "إجمالي المعاملات اليوم",
+  "dashboard.monitor.salesTarget": "مبيعات معدل إنجاز الهدف",
+  "dashboard.monitor.transPerSec": "مجموع المعاملات في الثانية الواحدة",
+  "dashboard.monitor.todayRevenueByCity": "اليوم الإيرادات حسب المدينة",
+  "dashboard.monitor.proportionPerCat": "نسبة لكل فئة",
+  "dashboard.monitor.furniture": "أثاث المنزل",
+  "dashboard.monitor.cloths": "ملابس",
+  "dashboard.monitor.jewelry": "مجوهرات",
+  "dashboard.monitor.shoes": "أحذية",
+  "dashboard.monitor.popularSearches": "عمليات البحث الشعبية",
+  "dashboard.monitor.monitorDashboard": "مراقبة لوحة القيادة"
+}

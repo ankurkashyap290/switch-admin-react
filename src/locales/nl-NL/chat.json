@@ -1,0 +1,19 @@
+{
+  "chat.add": "Toevoegen",
+  "chat.compose": "Componeren",
+  "chat.send": "Sturen",
+
+  "chat.chatApp": "Chat-app",
+  "chat.inputSearchText": "Voer zoektekst in",
+  "chat.typeYourMessage": "Typ uw bericht",
+  "chat.composeMessage": "Bericht opstellen",
+  "chat.findUser": "Gebruiker zoeken",
+  "chat.enterYourTextHere": "Voer hier uw tekst in",
+  "chat.cancel": "annuleren",
+  "chat.ok": "OK",
+  "chat.fullName": "Voor-en achternaam",
+  "chat.mobileNo": "Mobiel Nee",
+  "chat.dob": "DOB",
+  "chat.selectDate": "Selecteer een datum",
+  "chat.addUser": "Voeg gebruiker toe"
+}

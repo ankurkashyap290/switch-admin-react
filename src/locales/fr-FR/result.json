@@ -1,0 +1,10 @@
+{
+  "result.error.failedSubmission": "Vous pouvez ajouter des informations sur les raisons pour lesquelles une soumission a échoué.",
+  "result.error.backToReview": "Retour au formulaire de révision",
+  "result.success.info": "Vous pouvez ajouter quelques informations ici sur le succès",
+  "result.back": "Retour",
+  "result.viewItem": "Regarder l'objet",
+  "result.downloadPrint": "Télécharger / Imprimer",
+  "result.successPage": "Page de réussite",
+  "result.errorPage": "Page d'erreur"
+}

@@ -1,0 +1,10 @@
+{
+  "result.error.failedSubmission": "Puede agregar información sobre por qué no se pudo enviar",
+  "result.error.backToReview": "Volver al formulario de revisión",
+  "result.success.info": "Puedes agregar algo de información aquí sobre el éxito",
+  "result.back": "Espalda",
+  "result.viewItem": "Ver ítem",
+  "result.downloadPrint": "Descargar / Imprimir",
+  "result.successPage": "Página de éxito",
+  "result.errorPage": "Página de error"
+}

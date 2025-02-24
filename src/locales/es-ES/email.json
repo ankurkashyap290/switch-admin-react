@@ -1,0 +1,23 @@
+{
+  "email.compose": "Componer",
+  "email.inbox": "Bandeja de entrada",
+  "email.sent": "Expedido(masculine)",
+  "email.draft": "Borrador",
+  "email.important": "Importante",
+  "email.starred": "Sembrado de estrellas",
+  "email.spam": "Correo no deseado",
+  "email.trash": "Basura",
+  "email.labels": "Etiquetas",
+  "email.work": "Trabajo",
+  "email.business": "Negocio",
+  "email.family": "Familia",
+  "email.friend": "Amigo",
+  "email.uploadText": "Haga clic o arrastre el archivo a esta área para subir",
+  "email.uploadHint": " Soporte para una carga única o masiva. Prohibir estrictamente la carga de datos de la empresa u otros archivos de banda",
+  "email.saveToDraft": "Guardar en borrador",
+  "email.discard": "Descarte",
+  "email.send": "Enviar",
+  "email.reply": "Respuesta",
+  "email.attachments": "Archivos adjuntos",
+  "email.download": "Descargar"
+}

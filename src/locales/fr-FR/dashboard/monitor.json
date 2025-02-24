@@ -1,0 +1,14 @@
+{
+  "dashboard.monitor.todayProductSale": "Vente de produits aujourd'hui",
+  "dashboard.monitor.totalTransactionsToday": "Total des transactions aujourd'hui",
+  "dashboard.monitor.salesTarget": "Taux d'achèvement des objectifs de vente",
+  "dashboard.monitor.transPerSec": "Total des transactions par seconde",
+  "dashboard.monitor.todayRevenueByCity": "Revenu aujourd'hui par ville",
+  "dashboard.monitor.proportionPerCat": "Proportion par catégorie",
+  "dashboard.monitor.furniture": "Meubles",
+  "dashboard.monitor.cloths": "vêtements",
+  "dashboard.monitor.jewelry": "Bijoux",
+  "dashboard.monitor.shoes": "Des chaussures",
+  "dashboard.monitor.popularSearches": "Recherches populaires",
+  "dashboard.monitor.monitorDashboard": "Moniteur Dashboard"
+}
